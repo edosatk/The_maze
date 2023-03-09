@@ -1,1 +1,1 @@
-the maze project
+the maze project readme file
